@@ -1,16 +1,14 @@
-## Hi there 👋
+#About me
 
-<!--
-**pedro21-dotcom/pedro21-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**pedro21-dotcom/pedro21-dotcom**  ✨My GitHub profile✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱Actualmente estoy aprendiendo desarrollo de software en SENATI
+- 👯 Busco colaborar en una empresa que me rete a crecer
+- 🤔 Busco ayuda con todo tipo de cosas, cualquier aprendizaje es bienvenido 
+- 💬 Pregúntame lo que quieras
+- 📫 Cómo contactarme: pedrojuniorhuapayajimenez21@gmail.com
+- 😄 Pronombres: todavía no entiendo los pronombres
+- ⚡ Dato curioso: me gusta la pizza
+
